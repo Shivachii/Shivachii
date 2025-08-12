@@ -7,7 +7,7 @@ I enjoy solving complex problems, crafting beautiful UIs, and delivering seamles
 
 - 🌱 Currently learning: **Advanced Next.js features, Edge Functions, and Server Actions**
 - 🔭 Working on: **Enhancing SEO & performance for large-scale websites**
-- 🌍 Languages: **JavaScript, TypeScript, English**
+- 💬 Ask me about: tech, memes, anime
 - 📫 How to reach me: **videllshivachi@gmail.com**
 
 
