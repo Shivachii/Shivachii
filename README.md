@@ -1,18 +1,75 @@
-## Hi there, I'm Shivachi 👋
+# Hi there, I'm SHIVACHI! 👋
+
+![Banner Image](your_banner_image_url_here)
 
 ## About Me 🚀
-I'm a passionate **Web Developer** with experience in **Javascript, Java, Python**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
-- 🌱 Currently learning: **Next Js, Tailwind CSS, Framer**
-- 🔭 Working on: **[current projects or side-projects]**
-- 🌍 Languages: **English, Swahili**
+I'm a passionate **Full-Stack Web Developer** specializing in building modern, performant, and scalable web applications using the latest JavaScript and TypeScript technologies.  
+I enjoy solving complex problems, crafting beautiful UIs, and delivering seamless user experiences.
+
+- 🌱 Currently learning: **Advanced Next.js features, Edge Functions, and Server Actions**
+- 🔭 Working on: **Enhancing SEO & performance for large-scale websites**
+- 🌍 Languages: **JavaScript, TypeScript, English**
 - 📫 How to reach me: **videllshivachi@gmail.com**
-- ⚡ Fun fact: **I think**
+
+
+---
 
 ## My Skills 🧠
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**Frontend**
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**Backend & Databases**
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![NextJs](https://img.shields.io/badge/-NextJs-339933?style=flat-square&logo=node.js&logoColor=white)
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![Sanity](https://img.shields.io/badge/-Sanity-FA4224?style=flat-square&logo=sanity&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+
+**Other Tools**
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+---
+
+## Featured Projects 💻
+
+### [B.I.K Advocates LLP](https://www.bikadvocates.com)
+
+![B.I.K Advocates Screenshot](your_screenshot_url_here)
+
+**B.I.K Advocates LLP** is a professional law firm website built with **Next.js, Tailwind CSS, Sanity CMS, and Prisma**.  
+It features:
+- Fully CMS-driven content for easy updates
+- SEO-optimized structure with rich metadata and schema markup
+- Fast-loading, responsive UI
+- Accessibility-friendly design
+
+**Repository:** *(Private/Not Public)*
+
+---
+
+### [Ahlulbayt Assembly of Kenya](https://www.ahlulbaytassembly.org)
+
+![Ahlulbayt Assembly Screenshot](your_screenshot_url_here)
+
+**Ahlulbayt Assembly Kenya** is a multilingual website for an Islamic NGO, built with **Next.js, Tailwind CSS, Sanity CMS**, and integrated with dynamic form handling.  
+It features:
+- Multilingual support (English, Swahili, Arabic, Farsi)
+- Dynamic event, publication, and media management via CMS
+- Optimized for performance and SEO
+- Modern, accessible design
+
+**Repository:** *(Private/Not Public)*
+
+---
+
+## Get in Touch 📬
+
+- 🌐 **[Portfolio Website](your_portfolio_link)**
+- 💼 **[LinkedIn](your_linkedin_link)**
+- 🐦 **[Twitter](your_twitter_link)**
+- 📧 **[Email Me](mailto:your_email@example.com)**
