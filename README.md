@@ -1,7 +1,5 @@
 # Hi there, I'm SHIVACHI! 👋
 
-![Banner Image](your_banner_image_url_here)
-
 ## About Me 🚀
 
 I'm a passionate **Full-Stack Web Developer** specializing in building modern, performant, and scalable web applications using the latest JavaScript and TypeScript technologies.  
@@ -39,8 +37,6 @@ I enjoy solving complex problems, crafting beautiful UIs, and delivering seamles
 
 ### [B.I.K Advocates LLP](https://www.bikadvocates.com)
 
-![B.I.K Advocates Screenshot](/assets/bikadvocates.png)
-
 **B.I.K Advocates LLP** is a professional law firm website built with **Next.js, Tailwind CSS, Sanity CMS, and Prisma**.  
 It features:
 - Fully CMS-driven content for easy updates
@@ -53,8 +49,6 @@ It features:
 ---
 
 ### [Ahlulbayt Assembly of Kenya](https://www.ahlulbaytassembly.org)
-
-![Ahlulbayt Assembly Screenshot](your_screenshot_url_here)
 
 **Ahlulbayt Assembly Kenya** is a multilingual website for an Islamic NGO, built with **Next.js, Tailwind CSS, Sanity CMS**, and integrated with dynamic form handling.  
 It features:
