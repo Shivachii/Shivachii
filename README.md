@@ -39,7 +39,7 @@ I enjoy solving complex problems, crafting beautiful UIs, and delivering seamles
 
 ### [B.I.K Advocates LLP](https://www.bikadvocates.com)
 
-![B.I.K Advocates Screenshot](your_screenshot_url_here)
+![B.I.K Advocates Screenshot](/assets/bikadvocates.png)
 
 **B.I.K Advocates LLP** is a professional law firm website built with **Next.js, Tailwind CSS, Sanity CMS, and Prisma**.  
 It features:
@@ -72,4 +72,4 @@ It features:
 - 🌐 **[Portfolio Website](your_portfolio_link)**
 - 💼 **[LinkedIn](your_linkedin_link)**
 - 🐦 **[Twitter](your_twitter_link)**
-- 📧 **[Email Me](mailto:your_email@example.com)**
+- 📧 **[Email Me](mailto:videllshivachi@gmail.com)**
