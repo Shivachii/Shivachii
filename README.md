@@ -65,7 +65,4 @@ It features:
 
 ## Get in Touch 📬
 
-- 🌐 **[Portfolio Website](your_portfolio_link)**
-- 💼 **[LinkedIn](your_linkedin_link)**
-- 🐦 **[Twitter](your_twitter_link)**
 - 📧 **[Email Me](mailto:videllshivachi@gmail.com)**
